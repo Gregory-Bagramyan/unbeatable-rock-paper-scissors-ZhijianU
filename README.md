@@ -11,3 +11,9 @@ For example : if a player wins with rock he or she is more likely to play rock a
 - If a player loses a round he or she is more likely to make a different choice on the next round.
 For example if a player loses with rock he or she is more likely the not plqy rock on the next round and 
 thus will play paper or scissors
+
+If you want to learn more about this study here is the link to the paper :
+https://www.researchgate.net/publication/261761603_Social_cycling_and_conditional_responses_in_the_Rock-Paper-Scissors_game
+and here is the vice article on the paper : https://www.vice.com/en/article/gvym4x/game-theory-rock-paper-scissors
+I wish you interesting reading :)
+
