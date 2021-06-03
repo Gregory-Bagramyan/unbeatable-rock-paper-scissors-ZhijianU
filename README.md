@@ -1,8 +1,8 @@
-# unbeatable-tic-tac-toe-ZhijianU
-Play tic tac toe against the strategy based on the Zhijian University research.
+# unbeatable-rock-paper-scissors-ZhijianU
+Play rock paper scissors against the strategy based on the Zhijian University research.
 
-Here is a python terminal tic tac toe game, were a player (you) can play against a bot which follows the strategy based on the Zhijian University research.
-run the command  python tic_tac_toe_zhijian_uni.py to play the game (or python3 tic_tac_toe_zhijian_uni.py if you encounter an error)
+Here is a python terminal rock paper scissors game, were a player (you) can play against a bot which follows the strategy based on the Zhijian University research.
+run the command  python rock_paper_scissors_zhijian_uni.py to play the game (or python3 rock_paper_scissors_zhijian_uni.py if you encounter an error)
 
 Zhijian University conducted an experimental research among 360 students and each one played 300 rounds of rock pqper scissors.
 Their discovery (the really simple version at least) is that : 
